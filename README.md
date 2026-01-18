@@ -42,9 +42,9 @@ Only authorized users can modify their own data.
 <img width="1440" height="762" alt="Screenshot 2026-01-17 at 11 48 21 pm" src="https://github.com/user-attachments/assets/6afa58fa-61ab-4c96-9fbc-225b931f2ac8" />
 <img width="1440" height="798" alt="Screenshot 2026-01-18 at 12 41 56 am" src="https://github.com/user-attachments/assets/9af88868-8fb5-411e-a6f3-ccda3b141b42" />
 
-## Backend Repository link
-[- [https://www.figma.com/site/4Tuzg36tcn8dLm5cvchOJW/Untitled?node-id=0-1&t=Q3PUI9CPJJL15XGt-1](https://github.com/ALhanoofe/motivhub-frontend)
-](https://github.com/aysha009/motivhub-backend/tree/main)
+## Frontend Repository link
+- [[https://www.figma.com/site/4Tuzg36tcn8dLm5cvchOJW/Untitled?node-id=0-1&t=Q3PUI9CPJJL15XGt-1](https://github.com/ALhanoofe/motivhub-frontend)
+](https://github.com/aysha009/motivhub-backend/tree/main)](https://github.com/ALhanoofe/motivhub-frontend)
 
 ## Figme link
 - https://www.figma.com/site/4Tuzg36tcn8dLm5cvchOJW/Untitled?node-id=0-1&t=Q3PUI9CPJJL15XGt-1
